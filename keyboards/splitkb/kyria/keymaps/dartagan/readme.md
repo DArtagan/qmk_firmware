@@ -24,7 +24,7 @@ Base Layer: -
 |--------+------+------+------+------+------+-------------.  ,-------------+------+------+------+------+------+--------|
 | LShift |   -  |   -  |   -  |   -  |   -  | [ {  |CapsLk|  |F-Keys|  ] } |   -  |   -  |   -  |   -  |   -  | RShift |
 `----------------------+------+------+------+------+------|  |------+------+------+------+------+----------------------'
-                       |Adjust| LGUI | LAlt/| Space| Nav  |  | Sym  | Space| AltGr| RGUI | Menu |
+                       |Adjust| LGUI | LAlt/| Enter| Nav  |  | Sym  | Space| AltGr| RGUI | Menu |
                        |      |      | Enter|      |      |  |      |      |      |      |      |
                        `----------------------------------'  `----------------------------------'
 ```
@@ -42,7 +42,7 @@ Base Layer: QWERTY
 |--------+------+------+------+------+------+-------------.  ,-------------+------+------+------+------+------+--------|
 | LShift |   Z  |   X  |   C  |   V  |   B  | [ {  |CapsLk|  |F-keys|  ] } |   N  |   M  | ,  < | . >  | /  ? | RShift |
 `----------------------+------+------+------+------+------|  |------+------+------+------+------+----------------------'
-                       |Adjust| LGUI | LAlt/| Space| Nav  |  | Sym  | Space| AltGr| RGUI | Menu |
+                       |Adjust| LGUI | LAlt/| Enter| Nav  |  | Sym  | Space| AltGr| RGUI | Menu |
                        |      |      | Enter|      |      |  |      |      |      |      |      |
                        `----------------------------------'  `----------------------------------'
 ```
@@ -140,7 +140,7 @@ Nav Layer: Media, navigation
                        `----------------------------------'  `----------------------------------'
 ```
 
-This is where you'll find all the keys that are generally between the main block of a classic keyboard and the numpad in addition to media controls and modifiers on easy access on the home row for fast and comfortable chording with navigation keys.
+This is where you'll find all the keys that are generally between the main block of a classic keyboard and the numpad in addition to media controls and modifiers on easy access on the home row for fast and comfortable chording with navigation keys.  Holding down the F-keys and Sym buttons simultaneously also enables the nav layer, for occasional one handed use.
 
 Useful mnemonics:
 - “GACS” to remember the order of the modifiers on the left-hand home row
